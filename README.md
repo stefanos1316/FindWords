@@ -2,7 +2,7 @@
 This tool was build to find words inside a folders hierarchy
 
 # Author Information
-Full Name: Stefanos Georgiou
+Full Name: Stefanos Georgiou <\br>
 Email Address: stefanos1316@gmail.com, sgeorgiou@aube.gr, sgeorgiou@singularlogic.eu
 
 # Java Version
